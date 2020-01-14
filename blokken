@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<title>Opdracht 4 </title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/reset.css">
+<body>
+    <header class="header"> 
+        <br>
+        <nav class="b">
+            <ul style="list-style-type:none;">
+                <li><a href="Home" >Home</a></li>
+                <li><a href="About" >About</a></li>
+                <li><a href="Portofolio" >Portofolio</a></li>
+                <li><a href="Archives" >Archives</a></li>
+                <li><a href="Resources" >Resources</a></li>
+                <li><a href="Contact" >Contact</a></li> 
+            </ul>
+    </nav>
+ </header>
+ <br>
+ <br>
+ <br>
+ <main>
+     <br>
+     <br>
+     <br>
+<h1 class="city"> City Pop</h1>
+<br>
+<br>
+<br>
+<p class="tekst">City Pop is a genre of music popular in Japan in the late 70s and 80s blending pop, jazz, and funk to create a pristine-sounding style of music meant to reflect the booming economic and technological prosperity.</p>
+        <img class="img" src="img/citypop.jpg" alt="citypop">
+        <div class="paars"></div>
+        <div class="geel"></div>
+        <br>
+        <div class="paars2"></div>
+        <div class="geel1"></div>
+        <div class="oranje"></div>
+        <div class="rood"></div>
+        <div class="oranje1"></div>
+        <div class="rood1"></div>
+        <div class="oranje3"></div>
+        <br>
+        <br>
+        <div class="oranje4"></div>
+    </main>
+    
+
+
+</body>
+</html>
